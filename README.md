@@ -1,4 +1,4 @@
-# iubh-tempermonkey-course-registration
+# iubh-tampermonkey-course-registration
 A simple tampermonkey script to enforce course registration on [MyCampus](https://mycampus.iubh.de/).
 
 It can be used to gain access to all elective modules before the final decision.
